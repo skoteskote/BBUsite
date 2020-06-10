@@ -41,7 +41,7 @@ export default {
 			// add the about brief block on the top of the array.
 			data.unshift({
 				id: 'about',
-				title: 'Bable \nbetween us',
+				title: 'Babel \nbetween us',
 				raw: 'About the project \n',
 			});
 			// save the stories to the vux store
